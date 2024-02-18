@@ -1,0 +1,35 @@
+#ux{
+    padding: 80px 0;
+}
+.ux_text h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282938;
+}
+.ux_text p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.87;
+}
+.ux_img img{
+    padding-top: 15px;
+}
+.ux_txt_btm p{
+    padding: 0 20px;
+    padding-top: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #282938;
+    opacity: 0.7;
+}
+.ux_txt_btm a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2405F2;
+    opacity: 0.7;
+}
